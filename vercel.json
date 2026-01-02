@@ -1,0 +1,35 @@
+{
+  "buildCommand": "cd site && hugo --gc --minify",
+  "outputDirectory": "site/public",
+  "installCommand": "yarn install",
+  "framework": null,
+  "devCommand": "cd site && hugo server -D"
+}
+```
+
+### Step 5: Commit
+
+1. Scroll down
+2. Commit message: "Add Vercel configuration"
+3. Click **"Commit new file"**
+
+### Step 6: Vercel Will Auto-Deploy
+
+Within 1-2 minutes, Vercel will detect the new file and automatically redeploy with the correct settings!
+
+---
+
+## ✅ ALTERNATIVE: Let me give you the EXACT Vercel URL
+
+Since I can't see your exact project, try these URLs:
+
+**Replace `YOUR-PROJECT-NAME` with your actual project name:**
+
+1. **Settings URL format:**
+```
+   https://vercel.com/YOUR-USERNAME/placeholder-publication/settings
+```
+
+2. **Try this direct link:**
+```
+   https://vercel.com/whatsupsingapore/placeholder-publication/settings
