@@ -1,6 +1,14 @@
-```toml
 [[menu.main]]
-  name = "Our Books"
-  url = "/books"
-  weight = 2 
-```
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Our Books"  
+  url = "/"
+  weight = 2
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact"
+  weight = 3
