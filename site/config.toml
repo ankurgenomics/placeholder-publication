@@ -1,1 +1,6 @@
-
+```toml
+[[menu.main]]
+  name = "Our Books"
+  url = "/books"
+  weight = 2 
+```
