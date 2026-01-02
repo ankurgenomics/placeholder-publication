@@ -524,7 +524,7 @@ A: Yes! Follow us on Instagram @placeholderacademy for new release announcements
 
 ---
 
-## 🌟 About Dr. Ankur Sharma
+## 🌟 About Dr. Ankur Sharma and Mrs Rupa Kumari
 
 **Creator of Oobi the Otter Series**
 
