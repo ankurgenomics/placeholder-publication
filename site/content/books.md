@@ -524,11 +524,13 @@ A: Yes! Follow us on Instagram @placeholderacademy for new release announcements
 
 ---
 
-## 🌟 About Dr. Ankur Sharma and Mrs Rupa Kumari
+## 🌟 About Dr. Ankur Sharma and Mrs Rupa Kumari 
 
 **Creator of Oobi the Otter Series**
 
-Dr. Ankur Sharma and Mrs Rupa Kumari are educators passionate about making learning fun and relaise the full potential for ages. Through the lovable character Oobi the Otter, they created workbooks that combine education with entertainment.
+Dr. Ankur Sharma and Mrs Rupa Kumari are educators passionate about early childhood literacy and making learning fun. Through the lovable character Oobi the Otter, they creates workbooks that combine education with entertainment.
+
+
 
 ---
 
@@ -566,4 +568,3 @@ Dr. Ankur Sharma and Mrs Rupa Kumari are educators passionate about making learn
 
 **Questions?** Email us: learning.ankur.ai@gmail.com  
 **Follow Oobi:** [@placeholderacademy](https://www.instagram.com/placeholderacademy) 🦦📚
-
